@@ -12,3 +12,5 @@ Preparing for AI-related roles (PyTorch/LLM integration)
 
 🚀 Roadmap
 My goal is to master Python fundamentals and move toward building AI-powered mobile applications within the next 6 months.
+
+test test test for git
